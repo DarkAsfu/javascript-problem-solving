@@ -1,3 +1,4 @@
+// Write a JavaScript program to find the most frequent element in an array and return it.
 const mostFreqNum = (arr) =>{
     let maxCount = 0;
     let mostFrequentNum = null;
